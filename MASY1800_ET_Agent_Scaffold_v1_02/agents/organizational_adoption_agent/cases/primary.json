@@ -1,0 +1,15 @@
+
+{
+  "emerging_technology": "Generative AI using Large Language Models",
+  "intended_application": "AI-powered customer support assistant that drafts answers to customer inquiries for human review",
+  "organization": "Large Financial Services Company A (hypothetical)",
+  "industry_sector": "Financial services",
+  "business_need": "Reduce customer response time and improve support productivity while maintaining accuracy and customer trust",
+  "users_stakeholders": "Customer service agents, customers, IT teams, compliance officers, risk managers, and senior leadership",
+  "adoption_posture": "Moderate fast-follower, willing to implement controlled AI pilots",
+  "capabilities_constraints": "The organization has an experienced IT team, established cybersecurity and compliance processes, a dedicated AI pilot budget, executive sponsorship, documented customer support workflows, and existing employee training programs. The organization has not yet demonstrated the accuracy of the proposed model or completed an application-specific data governance review.",
+  "risk_consequence_context": "Incorrect AI-generated answers, exposure of customer information, compliance failures, and reputational damage",
+  "management_question": "Is the organization ready to pilot and sustainably operate an AI-powered customer support assistant? What readiness gaps must be addressed before implementation?",
+  "time_horizon": "Next 6 months",
+  "additional_context": "This is a hypothetical teaching scenario. Evaluate organizational readiness independently from technology maturity. Do not assume the proposed AI system is already accurate or compliant."
+}

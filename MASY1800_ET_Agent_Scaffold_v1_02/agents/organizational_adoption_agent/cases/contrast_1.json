@@ -1,0 +1,15 @@
+
+{
+  "emerging_technology": "Generative AI using Large Language Models",
+  "intended_application": "AI-powered customer support assistant that drafts answers to customer inquiries for human review",
+  "organization": "Small Financial Services Company B (hypothetical)",
+  "industry_sector": "Financial services",
+  "business_need": "Reduce customer response time and improve support productivity while maintaining accuracy and customer trust",
+  "users_stakeholders": "Customer service agents, customers, IT teams, compliance officers, risk managers, and senior leadership",
+  "adoption_posture": "Conservative and risk-averse, with limited experience adopting AI",
+  "capabilities_constraints": "The organization has a small IT team, limited implementation budget, no dedicated AI governance function, no documented AI training program, fragmented customer support data, and no designated AI system owner. Senior leadership is interested in AI but has not committed funding or assigned an executive sponsor. The organization has not completed an application-specific data governance review.",
+  "risk_consequence_context": "Incorrect AI-generated answers, exposure of customer information, compliance failures, and reputational damage",
+  "management_question": "Is the organization ready to pilot and sustainably operate an AI-powered customer support assistant? What readiness gaps must be addressed before implementation?",
+  "time_horizon": "Next 6 months",
+  "additional_context": "This is a hypothetical teaching scenario. Evaluate organizational readiness independently from technology maturity. Do not assume funding, training, or AI governance exists when not documented."
+}
